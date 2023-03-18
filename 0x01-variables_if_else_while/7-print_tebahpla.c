@@ -10,7 +10,7 @@ int main(void)
 
 	char alphabets[] = "\nabcdefghijklmnopqrstuvwxyz";
 
-	for (a = 27; a >= 0; a--)
+	for (a = 26; a >= 0; a--)
 	{
 		putchar(alphabets[a]);
 	}

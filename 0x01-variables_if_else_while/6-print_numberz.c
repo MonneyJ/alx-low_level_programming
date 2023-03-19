@@ -7,7 +7,6 @@
 int main(void)
 {
 	int a;
-
 	char numbers[] = "0123456789\n";
 
 	for (a = 0; a <= 10; a++)
